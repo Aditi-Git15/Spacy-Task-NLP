@@ -1,2 +1,2 @@
-# Spacy-Task-NLP
-The goal is to develop a small Natural Language Processing (NLP) application using the SpaCy library. 
+# Spacy-Task-NLPBuild a
+Python-based NLP application using SpaCy that takes a natural language prompt and identifies locations mentioned in the input.

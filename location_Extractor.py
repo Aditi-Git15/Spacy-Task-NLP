@@ -1,6 +1,4 @@
 import spacy
-
-# Load SpaCy English model
 nlp = spacy.load("en_core_web_trf")
 
 def extract_locations(text):

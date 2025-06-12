@@ -6,3 +6,9 @@ Expected Output : Baner and Wakad
 Input : we love programming and machine learning
 output : no location found
 
+3.Test Case: Locations Mixed with Other Entities
+Input: "Microsoft has offices in Hyderabad, Seattle, and Dublin."
+Output: ["Hyderabad", "Seattle", "Dublin"]
+
+
+

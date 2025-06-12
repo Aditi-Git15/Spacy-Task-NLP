@@ -2,6 +2,7 @@
 Build a Python-based NLP application using SpaCy that takes a natural language prompt and identifies locations mentioned in the input.
 
 **Features**
+
 1.Extracts location names (cities, countries, etc.) from text
 
 2.Uses SpaCy’s transformer-based NLP model (en_core_web_trf)
